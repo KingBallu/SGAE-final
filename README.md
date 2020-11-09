@@ -1,6 +1,6 @@
 # SGAE-final
 
-## Auto-Encoding Scene Graphs for Image Captioning 
+## Auto-Encoding Scene Graphs for Image Captioning [Yang, et al '19]
 
 Graph R-CNN :  pytorch 1.0 버전에서만 동작
 
